@@ -2,10 +2,10 @@
 
 A test program that uses Google's search engine to search for a given word and get a link to the search results.
 
-option
-・Site specify
-・Amount of links to get
-・Save in Text format
+option  
+・Site specify  
+・Amount of links to get  
+・Save in Text format  
 
 
 ![image](https://user-images.githubusercontent.com/79699460/165484970-ec6a5ae8-bad2-4135-ad51-9a5f63839e24.png)
